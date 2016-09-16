@@ -1,6 +1,8 @@
 # phase6.3
 A Phase6 clone written in C++
 
+## !THE PROGRAM IS IN EARLY-ALPHA AND CURRENTLY DOESN'T WORK AT ALL!
+
 This is a clone for the vocabulary learning program called "Phase 6". It is written in C++ and uses SQLite3 databases to keep track of your learning progress.
 
 ## Development
